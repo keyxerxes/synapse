@@ -1,0 +1,6 @@
+{
+  "name": "SYNAPSE",
+  "description": "100% client-side, zero-API, offline installable PWA for ultra-fast Air-Gap file transfer up to 250 KB/s using Optical Matrix, Mini-OFDM Audio, Fountain-XOR erasure coding, and AES-256-GCM.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

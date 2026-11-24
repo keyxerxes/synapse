@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" fill="#0A0B0E"/>
+  <rect x="28" y="28" width="456" height="456" stroke="#242834" stroke-width="6"/>
+  <!-- Corner Alignment Fiducials -->
+  <rect x="64" y="64" width="64" height="64" stroke="#F59E0B" stroke-width="10"/>
+  <rect x="84" y="84" width="24" height="24" fill="#F59E0B"/>
+  <rect x="384" y="64" width="64" height="64" stroke="#06B6D4" stroke-width="10"/>
+  <rect x="404" y="84" width="24" height="24" fill="#06B6D4"/>
+  <rect x="64" y="384" width="64" height="64" stroke="#06B6D4" stroke-width="10"/>
+  <rect x="84" y="404" width="24" height="24" fill="#06B6D4"/>
+  <rect x="384" y="384" width="64" height="64" stroke="#F59E0B" stroke-width="10"/>
+  <rect x="404" y="404" width="24" height="24" fill="#F59E0B"/>
+  <!-- Central Optical Matrix Grid + Waveform -->
+  <g stroke="#2E3444" stroke-width="4">
+    <line x1="164" y1="164" x2="348" y2="164"/>
+    <line x1="164" y1="225" x2="348" y2="225"/>
+    <line x1="164" y1="286" x2="348" y2="286"/>
+    <line x1="164" y1="348" x2="348" y2="348"/>
+    <line x1="164" y1="164" x2="164" y2="348"/>
+    <line x1="225" y1="164" x2="225" y2="348"/>
+    <line x1="286" y1="164" x2="286" y2="348"/>
+    <line x1="348" y1="164" x2="348" y2="348"/>
+  </g>
+  <rect x="174" y="174" width="42" height="42" fill="#F59E0B"/>
+  <rect x="235" y="174" width="42" height="42" fill="#06B6D4"/>
+  <rect x="296" y="235" width="42" height="42" fill="#F59E0B"/>
+  <rect x="174" y="296" width="42" height="42" fill="#06B6D4"/>
+  <rect x="235" y="235" width="42" height="42" fill="#E2E8F0"/>
+  <rect x="296" y="296" width="42" height="42" fill="#10B981"/>
+</svg>
